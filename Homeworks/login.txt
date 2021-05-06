@@ -1,0 +1,10 @@
+User <Carlos> with Pin <1> enters work at : 08:00 and must work <16 sec> a week on : Tuesdays Thursdays
+
+User <Sara> with Pin <2> enters work at : 09:00 and must work	<16 sec> a week on : Mondays  Wednesdays
+
+User <Juan> with Pin <3> enters work at : 13:00 and must work	<14 sec> a week on : Mondays Wednedays Fridays
+
+User <Prisy> with Pin <4> enters work at : 13:30 and must work	<18 sec> a week on : Tuesdays Thursdays Saturdays
+
+
+
